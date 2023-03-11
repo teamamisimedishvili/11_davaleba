@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+.conteiner {
+    background-color: #FAFAFA;
+    border: 1px solid #DCDCDC;
+    width: 350px;
+    height: 490px;
+   padding-left: 10px;
+   padding-top: 60px;
+   margin-top: 50px auto;
+   margin-left: 450px;
+    
+}
+img {
+  margin-left: 125px;
+  margin-top: 30px;
+
+}
+h5{
+   text-align: center;
+   font-weight: bolder;
+}
+p {
+  text-align: center;
+}
